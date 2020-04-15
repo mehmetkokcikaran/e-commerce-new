@@ -1,2 +1,2 @@
 // url
-export default "http://localhost:1337"
+export default "https://e-commerce-appp2.herokuapp.com"
